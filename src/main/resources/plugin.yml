@@ -1,0 +1,6 @@
+name: StrongerBoats
+version: 1.0.0
+description: Boats no longer break when crashed.
+author: moltendorf
+website: http://dev.bukkit.org/server-mods/moltendorf-strongerboats/
+main: net.moltendorf.Bukkit.StrongerBoats.StrongerBoats
