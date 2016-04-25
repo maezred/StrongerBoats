@@ -8,15 +8,9 @@ import org.bukkit.plugin.java.JavaPlugin;
  * @author moltendorf
  */
 public class StrongerBoats extends JavaPlugin{
-	private static StrongerBoats instance = null;
-
-	public static StrongerBoats getInstance() {
-		return instance;
-	}
 
 	@Override
 	public void onEnable() {
-		instance = this;
 
 		getServer().getPluginManager().registerEvents(new Listeners(), this);
 	}
