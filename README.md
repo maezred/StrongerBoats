@@ -1,6 +1,8 @@
 StrongerBoats
 =============
 
+> Plugin for Bukkit/Spigot (a mod for Minecraft).
+
 ## Overview
 
-StrongerBoats is a plugin for Bukkit/Spigot (a mod for Minecraft).
+StrongerBoats prevents boats from breaking easily. Boats may only be destroyed by hand.
